@@ -4,11 +4,17 @@ This Java project is a Plagiarism Detection System designed for an educational i
 🚀 Features
 
 🔐 User Authentication (Admin, Faculty, Student)
+
 📄 Document Uploads by Students
+
 🧪 Plagiarism Detection Engine (basic comparison logic)
+
 📊 Report Generation for Faculty and Admins
+
 👤 User Management by Admin
+
 🗃 Object-Oriented Structure using Java
+
 
 🧱 Project Structure
 ├── Admin.java
