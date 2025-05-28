@@ -20,6 +20,9 @@ This Java project is a Plagiarism Detection System designed for an educational i
 
 
 
+
+
+
 🧱 Project Structure
 
 ├── Admin.java
